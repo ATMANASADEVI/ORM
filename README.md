@@ -46,7 +46,8 @@ class bankloanAdmin(admin.ModelAdmin):
 	list_display=('Name','Accountno','Interest','Startdate','Email','Mobilenumber','Amount','Enddate')
 
 #OUTPUT
-#Screenshot (17).png
+Screenshot (17).png
+
 
 
 ## RESULT
