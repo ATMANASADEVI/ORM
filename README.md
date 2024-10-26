@@ -45,10 +45,9 @@ class bankloan(models.Model):
 class bankloanAdmin(admin.ModelAdmin):
 	list_display=('Name','Accountno','Interest','Startdate','Email','Mobilenumber','Amount','Enddate')
 
+#OUTPUT
+#Screenshot (17).png
 
-## OUTPUT
-
-c:\Users\admin\Pictures\Screenshots\Screenshot (17).png
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
