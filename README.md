@@ -48,10 +48,7 @@ class bankloanAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
-
-c:\Users\admin\Pictures\Screenshots\Screenshot (18).png
-
+c:\Users\admin\Pictures\Screenshots\Screenshot (17).png
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
